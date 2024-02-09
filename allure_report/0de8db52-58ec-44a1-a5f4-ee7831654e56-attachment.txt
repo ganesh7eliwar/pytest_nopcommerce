@@ -1,0 +1,38 @@
+INFO     Test_search_customer:test_search_customer.py:48 Testcase test_search_customer_004 Started
+INFO     Test_search_customer:test_search_customer.py:49 Opening the Browser
+INFO     Test_search_customer:test_search_customer.py:51 Assigning Variable to Login Page
+INFO     Test_search_customer:test_search_customer.py:53 Assigning Variable to Search Customer
+INFO     Test_search_customer:test_search_customer.py:55 Assigning Variable to Add Customer
+INFO     Test_search_customer:test_search_customer.py:57 Entering Email -->admin@yourstore.com
+INFO     Test_search_customer:test_search_customer.py:59 Entering Password -->admin
+INFO     Test_search_customer:test_search_customer.py:61 Clicking on Login Button
+INFO     Test_search_customer:test_search_customer.py:64 Login Successful
+INFO     Test_search_customer:test_search_customer.py:65 Clicking 1st Customer Button
+INFO     Test_search_customer:test_search_customer.py:67 Clicking 2st Customer Button
+INFO     Test_search_customer:test_search_customer.py:69 Clicking on Add New Customer Button
+INFO     Test_search_customer:test_search_customer.py:72 Landed on Add New Customer Page
+INFO     Test_search_customer:test_search_customer.py:73 Creating Variable for generate_email()
+INFO     Test_search_customer:test_search_customer.py:75 Entering Customer Email -->gjypwmh@ymail.com
+INFO     Test_search_customer:test_search_customer.py:77 Entering Customer Password -->admin@123
+INFO     Test_search_customer:test_search_customer.py:79 Entering Customer First Name -->Credence
+INFO     Test_search_customer:test_search_customer.py:81 Entering Customer Last Name -->Automation
+INFO     Test_search_customer:test_search_customer.py:83 Selecting Gender -->male
+INFO     Test_search_customer:test_search_customer.py:85 Entering Customer DOB -->02/10/1992
+INFO     Test_search_customer:test_search_customer.py:87 Entering Company Name -->Credence IT Professionals Training Institute.
+INFO     Test_search_customer:test_search_customer.py:89 Clicking on Tax Check Box -->uncheck
+INFO     Test_search_customer:test_search_customer.py:91 Clicking on New Letter
+INFO     Test_search_customer:test_search_customer.py:93 Selecting News Letter
+INFO     Test_search_customer:test_search_customer.py:95 Clicking on Customer Roles
+INFO     Test_search_customer:test_search_customer.py:97 Selecting Customer Roles
+INFO     Test_search_customer:test_search_customer.py:99 Clicking on Manager of Vendor Dropdown Button and Selecting Value -->Vendor 1
+INFO     Test_search_customer:test_search_customer.py:101 Clicking on Active Button Check Box -->Uncheck
+INFO     Test_search_customer:test_search_customer.py:103 Clicking on Comment Box -->Automation is "Awesome"
+INFO     Test_search_customer:test_search_customer.py:105 Clicking on Save Button
+INFO     Test_search_customer:test_search_customer.py:108 Customer Added Successfully
+INFO     Test_search_customer:test_search_customer.py:109 Entering Customer Email -->gjypwmh@ymail.com
+INFO     Test_search_customer:test_search_customer.py:111 Clicking on Search Button
+INFO     Test_search_customer:test_search_customer.py:113 Clicking on Edit Button
+INFO     Test_search_customer:test_search_customer.py:116 Landed on Edit Customer Page
+INFO     Test_search_customer:test_search_customer.py:117 Capturing Screenshot Testcase 'test_search_customer_004_passed'
+INFO     Test_search_customer:test_search_customer.py:122 Clicking on Logout Button
+INFO     Test_search_customer:test_search_customer.py:124 Testcase 'test_search_customer_004' Completed

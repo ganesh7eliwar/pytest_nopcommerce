@@ -1,0 +1,9 @@
+INFO     Test_add_customer:test_add_customer.py:38 Testcase test_add_customer_003 Started
+INFO     Test_add_customer:test_add_customer.py:39 Opening the Browser
+INFO     Test_add_customer:test_add_customer.py:41 Assigning Variable to Login_page
+INFO     Test_add_customer:test_add_customer.py:43 Assigning Variable to Add_customer_page
+INFO     Test_add_customer:test_add_customer.py:45 Entering Email -->admin@yourstore.com
+INFO     Test_add_customer:test_add_customer.py:47 Entering Password -->admin
+INFO     Test_add_customer:test_add_customer.py:49 Clicking Login Button
+INFO     Test_add_customer:test_add_customer.py:52 Login Successful
+INFO     Test_add_customer:test_add_customer.py:53 Clicking 1st Customers Button

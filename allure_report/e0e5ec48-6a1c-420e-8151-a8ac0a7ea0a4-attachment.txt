@@ -1,0 +1,10 @@
+INFO     Test_search_customer:test_search_customer.py:48 Testcase test_search_customer_004 Started
+INFO     Test_search_customer:test_search_customer.py:49 Opening the Browser
+INFO     Test_search_customer:test_search_customer.py:51 Assigning Variable to Login Page
+INFO     Test_search_customer:test_search_customer.py:53 Assigning Variable to Search Customer
+INFO     Test_search_customer:test_search_customer.py:55 Assigning Variable to Add Customer
+INFO     Test_search_customer:test_search_customer.py:57 Entering Email -->admin@yourstore.com
+INFO     Test_search_customer:test_search_customer.py:59 Entering Password -->admin
+INFO     Test_search_customer:test_search_customer.py:61 Clicking on Login Button
+INFO     Test_search_customer:test_search_customer.py:64 Login Successful
+INFO     Test_search_customer:test_search_customer.py:65 Clicking 1st Customer Button
