@@ -2771,3 +2771,86 @@ Started
 2024-02-09 15:37:41,794 : INFO : Test_search_customer : test_search_customer_004 : 117 : Capturing Screenshot Testcase 'test_search_customer_004_passed'
 2024-02-09 15:37:42,426 : INFO : Test_search_customer : test_search_customer_004 : 122 : Clicking on Logout Button
 2024-02-09 15:37:45,392 : INFO : Test_search_customer : test_search_customer_004 : 124 : Testcase 'test_search_customer_004' Completed
+2024-02-09 16:37:05,311 : INFO : Test_user_login : test_login_page_002 : 54 : test_login_page_002 has started
+2024-02-09 16:37:05,416 : INFO : Test_user_login : test_login_page_002 : 55 : Opening the Browser
+2024-02-09 16:37:05,416 : INFO : Test_user_login : test_login_page_002 : 58 : Entering Email -->admin@yourstore.com
+2024-02-09 16:37:05,703 : INFO : Test_user_login : test_login_page_002 : 60 : Entering Password -->admin
+2024-02-09 16:37:05,928 : INFO : Test_user_login : test_login_page_002 : 62 : Clicking Login Button
+2024-02-09 16:37:06,395 : INFO : Test_search_customer : test_search_customer_004 : 48 : Testcase test_search_customer_004 Started
+2024-02-09 16:37:06,396 : INFO : Test_search_customer : test_search_customer_004 : 49 : Opening the Browser
+2024-02-09 16:37:06,396 : INFO : Test_search_customer : test_search_customer_004 : 51 : Assigning Variable to Login Page
+2024-02-09 16:37:06,396 : INFO : Test_search_customer : test_search_customer_004 : 53 : Assigning Variable to Search Customer
+2024-02-09 16:37:06,396 : INFO : Test_search_customer : test_search_customer_004 : 55 : Assigning Variable to Add Customer
+2024-02-09 16:37:06,396 : INFO : Test_search_customer : test_search_customer_004 : 57 : Entering Email -->admin@yourstore.com
+2024-02-09 16:37:06,583 : INFO : Test_user_login : test_url_001 : 23 : test_url_001 has started
+2024-02-09 16:37:06,585 : INFO : Test_user_login : test_url_001 : 24 : Opening Browser and Navigating to nopcommerce
+2024-02-09 16:37:06,761 : INFO : Test_search_customer : test_search_customer_004 : 59 : Entering Password -->admin
+2024-02-09 16:37:07,063 : INFO : Test_search_customer : test_search_customer_004 : 61 : Clicking on Login Button
+2024-02-09 16:37:07,290 : INFO : Test_add_customer : test_add_customer_003 : 38 : Testcase test_add_customer_003 Started
+2024-02-09 16:37:07,291 : INFO : Test_add_customer : test_add_customer_003 : 39 : Opening the Browser
+2024-02-09 16:37:07,292 : INFO : Test_add_customer : test_add_customer_003 : 41 : Assigning Variable to Login_page
+2024-02-09 16:37:07,293 : INFO : Test_add_customer : test_add_customer_003 : 43 : Assigning Variable to Add_customer_page
+2024-02-09 16:37:07,293 : INFO : Test_add_customer : test_add_customer_003 : 45 : Entering Email -->admin@yourstore.com
+2024-02-09 16:37:07,413 : INFO : Test_user_login : test_url_001 : 26 : Page Title is --> Your store. Login
+2024-02-09 16:37:08,744 : INFO : Test_add_customer : test_add_customer_003 : 47 : Entering Password -->admin
+2024-02-09 16:37:09,646 : INFO : Test_add_customer : test_add_customer_003 : 49 : Clicking Login Button
+2024-02-09 16:37:12,769 : INFO : Test_user_login : test_url_001 : 34 : Screenshot Captured Testcase test_url_001 Passed
+2024-02-09 16:37:12,769 : INFO : Test_user_login : test_url_001 : 43 : Testcase test_url_001 Completed
+2024-02-09 16:37:13,263 : INFO : Test_search_customer : test_search_customer_004 : 64 : Login Successful
+2024-02-09 16:37:13,264 : INFO : Test_search_customer : test_search_customer_004 : 65 : Clicking 1st Customer Button
+2024-02-09 16:37:13,481 : INFO : Test_search_customer : test_search_customer_004 : 67 : Clicking 2st Customer Button
+2024-02-09 16:37:15,573 : INFO : Test_search_customer : test_search_customer_004 : 69 : Clicking on Add New Customer Button
+2024-02-09 16:37:15,984 : INFO : Test_user_login : test_login_page_002 : 69 : Verification Completed Testcase test_login_page_002 Passed
+2024-02-09 16:37:15,984 : INFO : Test_user_login : test_login_page_002 : 70 : Clicking Logout Button
+2024-02-09 16:37:16,331 : INFO : Test_add_customer : test_add_customer_003 : 52 : Login Successful
+2024-02-09 16:37:16,332 : INFO : Test_add_customer : test_add_customer_003 : 53 : Clicking 1st Customers Button
+2024-02-09 16:37:16,567 : INFO : Test_add_customer : test_add_customer_003 : 55 : Clicking 2nd Customers Button
+2024-02-09 16:37:18,065 : INFO : Test_search_customer : test_search_customer_004 : 72 : Landed on Add New Customer Page
+2024-02-09 16:37:18,065 : INFO : Test_search_customer : test_search_customer_004 : 73 : Creating Variable for generate_email()
+2024-02-09 16:37:18,066 : INFO : Test_search_customer : test_search_customer_004 : 75 : Entering Customer Email -->svkzhii@gmail.com
+2024-02-09 16:37:18,330 : INFO : Test_search_customer : test_search_customer_004 : 77 : Entering Customer Password -->admin@123
+2024-02-09 16:37:18,459 : INFO : Test_search_customer : test_search_customer_004 : 79 : Entering Customer First Name -->Credence
+2024-02-09 16:37:18,599 : INFO : Test_search_customer : test_search_customer_004 : 81 : Entering Customer Last Name -->Automation
+2024-02-09 16:37:18,763 : INFO : Test_search_customer : test_search_customer_004 : 83 : Selecting Gender -->male
+2024-02-09 16:37:19,094 : INFO : Test_user_login : test_login_page_002 : 80 : Testcase test_login_page_002 Completed
+2024-02-09 16:37:19,187 : INFO : Test_add_customer : test_add_customer_003 : 57 : Clicking on Add Customer Button
+2024-02-09 16:37:19,200 : INFO : Test_search_customer : test_search_customer_004 : 85 : Entering Customer DOB -->02/10/1992
+2024-02-09 16:37:20,777 : INFO : Test_search_customer : test_search_customer_004 : 87 : Entering Company Name -->Credence IT Professionals Training Institute.
+2024-02-09 16:37:21,175 : INFO : Test_search_customer : test_search_customer_004 : 89 : Clicking on Tax Check Box -->uncheck
+2024-02-09 16:37:21,175 : INFO : Test_search_customer : test_search_customer_004 : 91 : Clicking on New Letter
+2024-02-09 16:37:21,392 : INFO : Test_search_customer : test_search_customer_004 : 93 : Selecting News Letter
+2024-02-09 16:37:21,726 : INFO : Test_search_customer : test_search_customer_004 : 95 : Clicking on Customer Roles
+2024-02-09 16:37:21,966 : INFO : Test_search_customer : test_search_customer_004 : 97 : Selecting Customer Roles
+2024-02-09 16:37:22,247 : INFO : Test_search_customer : test_search_customer_004 : 99 : Clicking on Manager of Vendor Dropdown Button and Selecting Value -->Vendor 1
+2024-02-09 16:37:22,439 : INFO : Test_add_customer : test_add_customer_003 : 60 : Landed on Add New Customer Page
+2024-02-09 16:37:22,439 : INFO : Test_add_customer : test_add_customer_003 : 62 : Entering Customer Email -->olawnqs@ymail.com
+2024-02-09 16:37:22,473 : INFO : Test_search_customer : test_search_customer_004 : 101 : Clicking on Active Button Check Box -->Uncheck
+2024-02-09 16:37:22,474 : INFO : Test_search_customer : test_search_customer_004 : 103 : Clicking on Comment Box -->Automation is "Awesome"
+2024-02-09 16:37:22,692 : INFO : Test_add_customer : test_add_customer_003 : 64 : Entering Password -->admin@123
+2024-02-09 16:37:22,957 : INFO : Test_search_customer : test_search_customer_004 : 105 : Clicking on Save Button
+2024-02-09 16:37:24,311 : INFO : Test_add_customer : test_add_customer_003 : 66 : Entering First_name -->Credence
+2024-02-09 16:37:24,521 : INFO : Test_add_customer : test_add_customer_003 : 68 : Entering Last_name -->Automation
+2024-02-09 16:37:24,805 : INFO : Test_add_customer : test_add_customer_003 : 70 : Selecting Gender -->male
+2024-02-09 16:37:24,971 : INFO : Test_add_customer : test_add_customer_003 : 72 : Entering Date of Birth -->02/10/1992
+2024-02-09 16:37:25,124 : INFO : Test_add_customer : test_add_customer_003 : 74 : Entering Company Name -->Credence IT Professionals Training Institute.
+2024-02-09 16:37:25,484 : INFO : Test_add_customer : test_add_customer_003 : 76 : Clicking on Tax Button -->uncheck
+2024-02-09 16:37:25,484 : INFO : Test_add_customer : test_add_customer_003 : 78 : Clicking on News Letter Button
+2024-02-09 16:37:25,767 : INFO : Test_add_customer : test_add_customer_003 : 80 : Selecting option in News Letter
+2024-02-09 16:37:25,789 : INFO : Test_search_customer : test_search_customer_004 : 108 : Customer Added Successfully
+2024-02-09 16:37:25,790 : INFO : Test_search_customer : test_search_customer_004 : 109 : Entering Customer Email -->svkzhii@gmail.com
+2024-02-09 16:37:26,142 : INFO : Test_add_customer : test_add_customer_003 : 82 : Clicking on Customer Roles
+2024-02-09 16:37:26,537 : INFO : Test_search_customer : test_search_customer_004 : 111 : Clicking on Search Button
+2024-02-09 16:37:26,822 : INFO : Test_search_customer : test_search_customer_004 : 113 : Clicking on Edit Button
+2024-02-09 16:37:26,857 : INFO : Test_add_customer : test_add_customer_003 : 84 : Selecting Option in Customer Roles
+2024-02-09 16:37:27,142 : INFO : Test_add_customer : test_add_customer_003 : 86 : Selecting Manager of Vendor -->Vendor 1
+2024-02-09 16:37:27,525 : INFO : Test_add_customer : test_add_customer_003 : 88 : Clicking on Active Button Check Box -->Uncheck
+2024-02-09 16:37:27,526 : INFO : Test_add_customer : test_add_customer_003 : 90 : Writing the Comment -->Automation is "Awesome"
+2024-02-09 16:37:28,153 : INFO : Test_add_customer : test_add_customer_003 : 92 : Clicking on Save Button
+2024-02-09 16:37:28,253 : INFO : Test_search_customer : test_search_customer_004 : 116 : Landed on Edit Customer Page
+2024-02-09 16:37:28,253 : INFO : Test_search_customer : test_search_customer_004 : 117 : Capturing Screenshot Testcase 'test_search_customer_004_passed'
+2024-02-09 16:37:30,745 : INFO : Test_search_customer : test_search_customer_004 : 122 : Clicking on Logout Button
+2024-02-09 16:37:32,025 : INFO : Test_add_customer : test_add_customer_003 : 95 : Customer Added Successfully
+2024-02-09 16:37:32,025 : INFO : Test_add_customer : test_add_customer_003 : 96 : Screenshot Captured Testcase test_add_customer_003 Passed
+2024-02-09 16:37:33,530 : INFO : Test_add_customer : test_add_customer_003 : 100 : Clicking on Logout Button
+2024-02-09 16:37:34,525 : INFO : Test_search_customer : test_search_customer_004 : 124 : Testcase 'test_search_customer_004' Completed
+2024-02-09 16:37:38,209 : INFO : Test_add_customer : test_add_customer_003 : 102 : Testcase test_add_customer_003 Completed
