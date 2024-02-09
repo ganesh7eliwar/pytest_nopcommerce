@@ -1,0 +1,31 @@
+INFO     Test_add_customer:test_add_customer.py:22 Testcase test_add_customer_003 Started
+INFO     Test_add_customer:test_add_customer.py:23 Opening the Browser
+INFO     Test_add_customer:test_add_customer.py:26 Assigning Variable to Login_page
+INFO     Test_add_customer:test_add_customer.py:28 Assigning Variable to Add_customer_page
+INFO     Test_add_customer:test_add_customer.py:30 Entering Email -->admin@yourstore.com
+INFO     Test_add_customer:test_add_customer.py:32 Entering Password -->admin
+INFO     Test_add_customer:test_add_customer.py:34 Clicking Login Button
+INFO     Test_add_customer:test_add_customer.py:37 Login Successful
+INFO     Test_add_customer:test_add_customer.py:38 Clicking Customers Button
+INFO     Test_add_customer:test_add_customer.py:40 Clicking Customers Button in Customers
+INFO     Test_add_customer:test_add_customer.py:42 Clicking Add Customer Button
+INFO     Test_add_customer:test_add_customer.py:45 Landed on Add New Customer Page
+INFO     Test_add_customer:test_add_customer.py:46 Entering Customer Email -->romario_shephred112233445@gmail.com
+INFO     Test_add_customer:test_add_customer.py:48 Entering Password -->admin@123
+INFO     Test_add_customer:test_add_customer.py:50 Entering First_name -->Romario
+INFO     Test_add_customer:test_add_customer.py:52 Entering Last_name -->Shephred
+INFO     Test_add_customer:test_add_customer.py:54 Selecting Gender
+INFO     Test_add_customer:test_add_customer.py:56 Entering Date of Birth -->02/10/1992
+INFO     Test_add_customer:test_add_customer.py:58 Entering Company Name -->Boeing
+INFO     Test_add_customer:test_add_customer.py:60 Clicking on Tax Button
+INFO     Test_add_customer:test_add_customer.py:62 Clicking on News Letter Button
+INFO     Test_add_customer:test_add_customer.py:64 Selecting option in News Letter
+INFO     Test_add_customer:test_add_customer.py:66 Clicking on Customer Roles
+INFO     Test_add_customer:test_add_customer.py:68 Selecting Option in Customer Roles
+INFO     Test_add_customer:test_add_customer.py:70 Selecting Manager of Vendor
+INFO     Test_add_customer:test_add_customer.py:74 Writing the Comment -->The Customer is from LA with a company valuation of $1 million
+INFO     Test_add_customer:test_add_customer.py:76 Clicking on Save Button
+INFO     Test_add_customer:test_add_customer.py:79 Customer Added Successfully
+INFO     Test_add_customer:test_add_customer.py:80 Screenshot Captured Testcase test_add_customer_003 Passed
+INFO     Test_add_customer:test_add_customer.py:82 Clicking on Logout Button
+INFO     Test_add_customer:test_add_customer.py:98 Testcase test_add_customer_003 Completed

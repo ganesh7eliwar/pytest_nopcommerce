@@ -1,0 +1,32 @@
+INFO     Test_add_customer:test_add_customer.py:35 Testcase test_add_customer_003 Started
+INFO     Test_add_customer:test_add_customer.py:36 Opening the Browser
+INFO     Test_add_customer:test_add_customer.py:38 Assigning Variable to Login_page
+INFO     Test_add_customer:test_add_customer.py:40 Assigning Variable to Add_customer_page
+INFO     Test_add_customer:test_add_customer.py:42 Entering Email -->admin@yourstore.com
+INFO     Test_add_customer:test_add_customer.py:44 Entering Password -->admin
+INFO     Test_add_customer:test_add_customer.py:46 Clicking Login Button
+INFO     Test_add_customer:test_add_customer.py:49 Login Successful
+INFO     Test_add_customer:test_add_customer.py:50 Clicking 1st Customers Button
+INFO     Test_add_customer:test_add_customer.py:52 Clicking 2nd Customers Button
+INFO     Test_add_customer:test_add_customer.py:54 Clicking on Add Customer Button
+INFO     Test_add_customer:test_add_customer.py:57 Landed on Add New Customer Page
+INFO     Test_add_customer:test_add_customer.py:59 Entering Customer Email -->ovmkqab@ymail.com
+INFO     Test_add_customer:test_add_customer.py:61 Entering Password -->admin@123
+INFO     Test_add_customer:test_add_customer.py:63 Entering First_name -->Credence
+INFO     Test_add_customer:test_add_customer.py:65 Entering Last_name -->Automation
+INFO     Test_add_customer:test_add_customer.py:67 Selecting Gender -->male
+INFO     Test_add_customer:test_add_customer.py:69 Entering Date of Birth -->02/10/1992
+INFO     Test_add_customer:test_add_customer.py:71 Entering Company Name -->Credence IT Professionals Training Institute.
+INFO     Test_add_customer:test_add_customer.py:73 Clicking on Tax Button -->uncheck
+INFO     Test_add_customer:test_add_customer.py:75 Clicking on News Letter Button
+INFO     Test_add_customer:test_add_customer.py:77 Selecting option in News Letter
+INFO     Test_add_customer:test_add_customer.py:79 Clicking on Customer Roles
+INFO     Test_add_customer:test_add_customer.py:81 Selecting Option in Customer Roles
+INFO     Test_add_customer:test_add_customer.py:83 Selecting Manager of Vendor -->Vendor 1
+INFO     Test_add_customer:test_add_customer.py:85 Clicking on Active Button Check Box -->Uncheck
+INFO     Test_add_customer:test_add_customer.py:87 Writing the Comment -->Automation is "Awesome"
+INFO     Test_add_customer:test_add_customer.py:89 Clicking on Save Button
+INFO     Test_add_customer:test_add_customer.py:92 Customer Added Successfully
+INFO     Test_add_customer:test_add_customer.py:93 Screenshot Captured Testcase test_add_customer_003 Passed
+INFO     Test_add_customer:test_add_customer.py:95 Clicking on Logout Button
+INFO     Test_add_customer:test_add_customer.py:112 Testcase test_add_customer_003 Completed

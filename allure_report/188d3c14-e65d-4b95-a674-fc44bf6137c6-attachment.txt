@@ -1,0 +1,8 @@
+INFO     Test_user_login:test_user_login.py:31 test_login_page_002 has started
+INFO     Test_user_login:test_user_login.py:32 Opening the Browser
+INFO     Test_user_login:test_user_login.py:35 Entering Email -->admin@yourstore.com
+INFO     Test_user_login:test_user_login.py:37 Entering Password -->admin
+INFO     Test_user_login:test_user_login.py:39 Clicking Login Button
+INFO     Test_user_login:test_user_login.py:43 Verification Completed Testcase test_login_page_002 Passed
+INFO     Test_user_login:test_user_login.py:44 Clicking Logout Button
+INFO     Test_user_login:test_user_login.py:51 Testcase test_login_page_002 Completed

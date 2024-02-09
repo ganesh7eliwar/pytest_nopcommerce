@@ -1,0 +1,5 @@
+INFO     Test_user_login:test_user_login.py:13 test_url_001 has started
+INFO     Test_user_login:test_user_login.py:14 Opening Browser and Navigating to nopcommerce
+INFO     Test_user_login:test_user_login.py:16 Page Title is --> Your store. Login
+INFO     Test_user_login:test_user_login.py:21 Screenshot Captured Testcase test_url_001 Passed
+INFO     Test_user_login:test_user_login.py:27 Testcase test_url_001 Completed
